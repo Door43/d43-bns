@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/bns|Ethnologue data]]
 
-
 **Resources**
 
   * [[bns:obs|Open Bible Stories (bns)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:bns:obs:status}}
